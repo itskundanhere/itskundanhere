@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently Study at **REC'Sonbhadra**
 
-- 🌱 I’m currently learning **Fullstack Webdevelopment ,C++**
+- 🌱 I’m currently learning **Fluttern Development ,C++**
 
-- 💬 Ask me about **Frontend development**
+- 💬 Ask me about **FLUTTER Development**
 
 - 📫 How to reach me **kundansingh170104@gmail.com**
 
