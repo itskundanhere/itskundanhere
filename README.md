@@ -1,5 +1,5 @@
 [![MasterHead](https://cdn.prod.website-files.com/5ef9f09160a5c429970bc031/642815e98fbcbed931bfb3e6_Flutter%20Animations_Cover-p-2000.png)
-<h1 align="center">Hi 👋, I'm Kundan Singh</h1>
+<h1 align="center">Hi👋, I'm Kundan Singh</h1>
 <h3 align="center">Currently I'am a B.Tech Student</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
 
