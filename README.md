@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Study at **REC'Sonbhadra**
 
-- 🌱 I’m currently learning **Fluttern Development ,C++**
+- 🌱 I’m currently learning **Flutter Development ,C++**
 
 - 💬 Ask me about **FLUTTER Development**
 
