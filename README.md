@@ -30,7 +30,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itskundanhere&" alt="itskundanhere" /></p>
 # PostMan(API) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex; align-items:center; gap:10' align='center'>
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   
 </div>
