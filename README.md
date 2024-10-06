@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kundansingh170104@gmail.com**
 
-- ⚡ Fun fact **I am a Funny**
+- ⚡ Fun fact **Feel free to ask**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
